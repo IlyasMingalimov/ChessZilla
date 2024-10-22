@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ChessZilla.Core\ChessZilla.Core.csproj" />
+  </ItemGroup>
+
 </Project>
